@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+-- https://discord.gg/uj8P6Fng
 
 
 shared.LoaderTitle = "Đăng Ký Kênh UNNAMED GAMER";
